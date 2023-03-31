@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KBiliak
-- 👀 I’m interested in development awesome things
+- 👀 I’m interested in development and testing awesome things
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on interesting and challenging projects 
 - 📫 How to reach me - kbiliak26@gmail.com
